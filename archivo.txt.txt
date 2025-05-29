@@ -1,1 +1,8 @@
 linea escrita por la rama main
+este mensaje es el comit 1 de user1
+este es el mensaje del comit 2 de user1 ya con push
+este mensaje es el comit 1 de user2
+este mensaje es el comit 2 user2
+este mensaje es el comit 2 de user2
+este es el comit 4 de user2
+este commit es del user3 con un push	
