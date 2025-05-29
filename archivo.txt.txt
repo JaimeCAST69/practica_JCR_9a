@@ -1,1 +1,3 @@
 linea escrita por la rama main
+este mensaje es el comit 1 de user1
+este es el mensaje del comit 2 de user1 ya con push
